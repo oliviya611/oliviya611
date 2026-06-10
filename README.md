@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/oliviya611/oliviya611/raw/main/Banner_oli.png" alt="Banner" width="100%">
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Aspiring+Software+Engineer;Data+Science+Enthusiast;Python+Developer;Always+Learning+New+Things" />
 </p>
 
