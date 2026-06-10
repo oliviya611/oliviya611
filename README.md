@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Aspiring+Software+Engineer;Data+Science+Enthusiast;Python+Developer;Always+Learning+New+Things" />
 </p>
 
-# Hi 👋, I'm Oliviya Vargheese
+# Hi 👋, I'm V.Oliviya 
 
 ### Aspiring Software Engineer & Data Science Enthusiast
 
