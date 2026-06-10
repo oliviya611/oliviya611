@@ -20,6 +20,12 @@
 - Git & GitHub
 - Data Analysis
 
+## 📈 GitHub Stats
+
+![Oliviya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliviya611&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviya611&layout=compact&theme=tokyonight)
+
 ## 📂 Featured Projects
 
 ### Business Sales Analytics
