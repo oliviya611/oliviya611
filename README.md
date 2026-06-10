@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Oliviya Vargheese
 
-<!--
-**oliviya611/oliviya611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer & Data Science Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about problem-solving, and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Learning Software Engineering and Data Science
+- 🌱 Currently improving Python, Java, SQL, and Machine Learning skills
+- 🔍 Interested in Analytics, AI, and Real-World Projects
+
+## 🛠 Skills
+
+- Python
+- Java
+- C++
+- SQL
+- Git & GitHub
+- Data Analysis
+
+## 📂 Featured Projects
+
+### Business Sales Analytics
+Analyzed sales trends and business performance metrics.
+
+### Customer Churn Analysis
+Identified customer retention patterns and churn factors.
+
+### Marketing Funnel Analysis
+Evaluated conversion rates and marketing effectiveness.
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/oliviya-vargheese-8132a1324
