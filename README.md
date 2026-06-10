@@ -4,7 +4,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Aspiring+Software+Engineer;Data+Science+Enthusiast;Python+Developer;Always+Learning+New+Things" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oliviya611&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 # Hi 👋, I'm Oliviya Vargheese
 
 ### Aspiring Software Engineer & Data Science Enthusiast
@@ -19,6 +21,8 @@
 - 🔍 Interested in Analytics, AI, and Real-World Projects
 
 ## 🛠 Skills
+
+## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
