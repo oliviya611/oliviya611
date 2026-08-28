@@ -27,12 +27,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Oliviya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliviya611&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviya611&layout=compact&theme=tokyonight)
-
 ## 📂 Featured Projects
 
 ### Business Sales Analytics
